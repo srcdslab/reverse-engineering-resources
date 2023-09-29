@@ -79,3 +79,4 @@ Note: If you don't import the results you gonna lose them after closing the IDA 
 
 # Ghidra
 - https://github.com/nosoop/ghidra_scripts
+- https://github.com/lexika979/Sigga
