@@ -1,6 +1,6 @@
 # IDA Resources
 
-Compilation of useful resources for [IDA Pro](https://hex-rays.com/ida-pro/)
+Compilation of useful resources for [IDA Pro](https://hex-rays.com/ida-pro/) and [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 ## Games
 
@@ -76,3 +76,6 @@ Note: If you don't import the results you gonna lose them after closing the IDA 
 - https://www.youtube.com/@scags3254/videos
 - https://github.com/perilouswithadollarsign/cstrike15_src
 - https://github.com/lua9520/source-engine-2018-hl2_src
+
+# Ghidra
+- https://github.com/nosoop/ghidra_scripts
