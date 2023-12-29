@@ -1,8 +1,10 @@
-# IDA Resources
+# Reverse engineering resources
 
-Compilation of useful resources for [IDA Pro](https://hex-rays.com/ida-pro/) and [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+Compilation of useful resources for:
+- [IDA Pro](https://hex-rays.com/ida-pro/)
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
-## Games
+## IDA
 
 ### CS:GO
 
@@ -66,6 +68,10 @@ Note: If you don't import the results you gonna lose them after closing the IDA 
 - [10] https://users.alliedmods.net/~asherkin/public/bins/csgo_symbols/csgo/bin/server.so
 - [11] Shift + D / File → BinDiff...
 
+## Ghidra
+- https://github.com/nosoop/ghidra_scripts
+- https://github.com/lexika979/Sigga
+
 ## Useful links
 
 - https://github.com/Scags/IDA-Scripts
@@ -76,7 +82,3 @@ Note: If you don't import the results you gonna lose them after closing the IDA 
 - https://www.youtube.com/@scags3254/videos
 - https://github.com/perilouswithadollarsign/cstrike15_src
 - https://github.com/lua9520/source-engine-2018-hl2_src
-
-# Ghidra
-- https://github.com/nosoop/ghidra_scripts
-- https://github.com/lexika979/Sigga
